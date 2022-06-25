@@ -1,0 +1,291 @@
+/* ================================
+    CSS STYLES FOR infoDNN
+   ================================
+*/  
+/* ---------------------------------------------------------
+フォント
+--------------------------------------------------------- */
+.shiosite .Settings .Head {
+       color:#333;
+}
+.shiosite .Settings .SubHead {
+       color:#333;
+}
+.shiosite .SubHead{
+       color:#333;
+}
+.shiosite .NormalBold{
+       color:#333;
+}
+font{
+       line-height:140%;
+}
+/* ---------------------------------------------------------
+ブログ
+--------------------------------------------------------- */
+#dnn_ctr405_ModuleContent table{width:100%;}
+.blog_title{
+        margin-top:10px;
+	border-bottom:1px solid #0000ff;
+	clear:right;
+}
+.blog_title a{
+        	font-size:14px;
+	font-weight:bold;
+	color:#0000ff;
+        text-decoration:none;
+}
+.blog_title a:link{
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+	color:#0000ff;
+}
+.blog_title a:visited{
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+	color:#0000ff;
+}
+.blog_title a:active{
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+	color:#0000ff;
+}
+.blog_title a:hover{
+	text-decoration:none;
+	font-size:14px;
+	font-weight:bold;
+	color:#0000ff;
+}
+.blog_published{
+	line-height:0px;
+	height:0px;
+}
+.blog_published .blog_pub-month{
+	line-height:0px;
+	font-size:0;
+	height:0;
+	text-indent:-9999px;
+}
+.blog_published .blog_pub-date{
+	line-height:0px;
+	font-size:0;
+	height:0;
+	text-indent:-9999px;
+}
+.blog_subhead{
+	margin:0;
+}
+.blog_author{
+	margin:0;
+}
+.BlogInfoRSS{
+	float:right;
+}
+
+#dnn_ctr401_MainView_ViewBlog_pnlBlogInfo{
+       margin-top:10px;
+}
+.shiosite .blog_bubble .NormalBold{
+	color:#0000FF;
+}
+.blog_bubble cite{
+	float:right;
+}
+.shiosite .blog_bubble cite .NormalBold{
+	color:#333;
+	font-weight:normal;
+}
+.blog_bubble blockquote{
+	margin:0;
+}
+ .blog_body p, .blog_body li, .blog_body ol, .blog_body td{
+	font-size:14px;
+	line-height:160%;
+}
+ .blog_body td p, .blog_body td li, .blog_body td ol, .blog_body td td{
+	font-size:14px;
+	line-height:160%;
+}
+ .blog_body a{
+	font-size:14px;
+	line-height:160%;
+}
+ .blog_body a:link{
+	font-size:14px;
+	line-height:160%;
+}
+ .blog_body a:hover{
+	font-size:14px;
+	ine-height:160%;
+}
+.shiosite .blog_footer_right a{
+	font-size:12px;
+	line-height:100%;
+}
+.shiosite .blog_footer_right a:link{
+	font-size:12px;
+	line-height:100%;
+}
+.shiosite .blog_footer_right a:hover{
+	font-size:12px;
+	line-height:100%;
+}
+.shiosite .blog_footer_left a{
+	font-size:12px;
+	line-height:100%;
+}
+.shiosite .blog_footer_left a:link{
+	font-size:12px;
+	line-height:100%;
+}
+.shiosite .blog_footer_left a:hover{
+	font-size:12px;
+	line-height:100%;
+}
+.blog_bubble .NormalBold{
+	font-style:normal;
+}
+.blog_bubble .Normal{
+	font-style:normal;
+}
+/* ---------------------------------------------------------
+テロップ
+--------------------------------------------------------- */
+#dnn_ctr406_ModuleContent{
+       font-weight:normal;
+       background-color:#FFF;
+       padding:1px;
+       border:#999 solid 1px;
+}
+/* ---------------------------------------------------------
+Ajax
+--------------------------------------------------------- */
+#__dnn_body{
+       background:none;
+}
+/* ---------------------------------------------------------
+profile
+--------------------------------------------------------- */
+.profile1 th{
+       border-bottom:#666 dotted 1px;
+       width:200px;
+       color:#333;
+       font-size:14px;
+       padding:3px;
+       text-align:left;
+       padding-left:10px;
+       vertical-align:top;
+}
+.profile2 th{
+       border-bottom:#666 dotted 1px;
+       width:150px;
+       color:#333;
+       font-size:14px;
+       padding:3px;
+       text-align:left;
+       padding-left:10px;
+       vertical-align:top;
+}
+.profile1 td,.profile2 td{
+       font-weight:normal;
+       border-bottom:#666 dotted 1px;
+       color:#333;
+       font-size:14px;
+       padding:3px;
+       padding-left:10px;
+       vertical-align:top;
+}
+.shiosite .profile1 td a,.shiosite .profile2 td a{
+       font-size:14px;
+}
+.shiosite .profile1 td a:link,.shiosite .profile2 td a:link{
+       font-size:14px;
+}
+.shiosite .profile1 td a:hover,.shiosite .profile2 td a:hover{
+       font-size:14px;
+}
+/* ---------------------------------------------------------
+アクセスカウンター
+--------------------------------------------------------- */
+#dnn_ctr427_ModuleContent{
+       color:#FFF;
+}
+/* ---------------------------------------------------------
+会員登録
+--------------------------------------------------------- */
+.menber_btm{
+        display:block;
+        width:180px;
+        height:30px;
+        background-image:url(/portals/0//image/common/menber_btm.jpg);
+        background-repeat:no-repeat;
+        text-indent:-999px;
+        font-size:0px;
+}
+.menber_btm:active{
+        background-position:bottom;
+}
+.menber_btm:hover{
+        background-position:bottom;
+}
+/* ---------------------------------------------------------
+コンテナshiosite-type02
+--------------------------------------------------------- */
+.shiosite-type02 .Contents a{
+        color:#FFF;
+}
+.shiosite-type02 .Contents a:link{
+        color:#FFF;
+}
+.shiosite-type02 .Contents a:hover{
+        color:#FFF;
+        text-decoration:none;
+}
+.blog_footer_left{
+        display:none;
+}
+/* ---------------------------------------------------------
+h1
+--------------------------------------------------------- */
+.shiosite h1{
+        font-size:0px;
+        margin:0px;
+        padding:0px;
+        height:0px;
+        line-height:0px;
+        text-indent:-9999px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
